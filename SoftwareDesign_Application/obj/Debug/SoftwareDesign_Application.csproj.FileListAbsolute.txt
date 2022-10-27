@@ -1,0 +1,43 @@
+C:\Users\Anabella C. Doctor\source\repos\SoftwareDesign_Application\SoftwareDesign_Application\bin\Debug\SoftwareDesign_Application.exe.config
+C:\Users\Anabella C. Doctor\source\repos\SoftwareDesign_Application\SoftwareDesign_Application\bin\Debug\SoftwareDesign_Application.exe
+C:\Users\Anabella C. Doctor\source\repos\SoftwareDesign_Application\SoftwareDesign_Application\bin\Debug\SoftwareDesign_Application.pdb
+C:\Users\Anabella C. Doctor\source\repos\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.csproj.AssemblyReference.cache
+C:\Users\Anabella C. Doctor\source\repos\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anabella C. Doctor\source\repos\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.POS.resources
+C:\Users\Anabella C. Doctor\source\repos\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.Properties.Resources.resources
+C:\Users\Anabella C. Doctor\source\repos\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.csproj.GenerateResource.cache
+C:\Users\Anabella C. Doctor\source\repos\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.csproj.CoreCompileInputs.cache
+C:\Users\Anabella C. Doctor\source\repos\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.exe
+C:\Users\Anabella C. Doctor\source\repos\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.pdb
+C:\Users\Anabella C. Doctor\source\repos\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.payrolFrm.resources
+D:\C# Programs New\SoftwareDesign_Application\SoftwareDesign_Application\bin\Debug\SoftwareDesign_Application.exe.config
+D:\C# Programs New\SoftwareDesign_Application\SoftwareDesign_Application\bin\Debug\SoftwareDesign_Application.exe
+D:\C# Programs New\SoftwareDesign_Application\SoftwareDesign_Application\bin\Debug\SoftwareDesign_Application.pdb
+D:\C# Programs New\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.csproj.AssemblyReference.cache
+D:\C# Programs New\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs New\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.payrolFrm.resources
+D:\C# Programs New\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.POS.resources
+D:\C# Programs New\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.Properties.Resources.resources
+D:\C# Programs New\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.csproj.GenerateResource.cache
+D:\C# Programs New\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.csproj.CoreCompileInputs.cache
+D:\C# Programs New\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.exe
+D:\C# Programs New\SoftwareDesign_Application\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.pdb
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\bin\Debug\SoftwareDesign_Application.exe.config
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\bin\Debug\SoftwareDesign_Application.exe
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\bin\Debug\SoftwareDesign_Application.pdb
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.csproj.AssemblyReference.cache
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.payrolFrm.resources
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.POS.resources
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.Properties.Resources.resources
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.csproj.GenerateResource.cache
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.csproj.CoreCompileInputs.cache
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.exe
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.pdb
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.POS_admin.resources
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.samplefrm_connectedDb.resources
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.sampleFrm_database_class.resources
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.sampleFrm_database_functions.resources
+C:\Users\Delli7\Desktop\software design\SoftwareDesign_Application\obj\Debug\SoftwareDesign_Application.csproj.CopyComplete
